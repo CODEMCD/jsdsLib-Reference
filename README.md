@@ -6,7 +6,7 @@
 - [Queue](https://codemcd.github.io/jsdsLib-Visualization/QueueArray.html)
 
 ## 사용 방법
-### Stack
+### 1. Stack
 
 ![howtousestack](https://user-images.githubusercontent.com/34755287/50573305-e83da680-0e14-11e9-9636-2b5c39f2b67a.JPG)
 
@@ -25,7 +25,9 @@
 
 ![stack example](https://user-images.githubusercontent.com/34755287/50573307-e8d63d00-0e14-11e9-81cc-4e5b447d0aed.JPG)
 
-### Queue
+---
+
+### 2. Queue
 
 ![howtousequeue](https://user-images.githubusercontent.com/34755287/50573304-e83da680-0e14-11e9-8be1-845130f00084.JPG)
 
