@@ -217,7 +217,7 @@ QueueArray.prototype.clearCallback = function (event) {
 
 
 QueueArray.prototype.rearrangeCallback = function (event) {
-	if (this.size > 0) {
+	if (this.head > 0) {
 		this.implementAction(this.rearrangeArray.bind(this), "");
 	}
 }
